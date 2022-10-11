@@ -1,1 +1,11 @@
-#imread
+#include "stdafx.h"
+#include "funtions.h"
+#include <stdio.h>
+
+using namespace std;
+
+
+int readImage()
+{
+
+	std::cout
