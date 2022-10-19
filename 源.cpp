@@ -16,7 +16,7 @@ int main()
 {
 	Mat img = imread("C:\\tag.png");
 		cvtColor(img, imgHSV, COLOR_BGR2HSV);
-		//ÊýÖµµ÷ÊÔ
+		//è°ƒè¯•é¢œè‰²
 		//namedWindow("Trackbar", (640, 640));
 		//createTrackbar("Hue Min","Trackbars",&hmin,179);
 		//createTrackbar("Hue Max","Trackbars",&hmax,179);
